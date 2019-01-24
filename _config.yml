@@ -4,21 +4,21 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Yanlz | 凌志
+title: crux | 墨写的谎言
 subtitle: 祝这个世界热热闹闹，愿我还是我
 description: 祝这个世界热热闹闹，愿我还是我
-author: Yanlz | 凌志
+author: crux | 墨写的谎言
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: http://yanlz.com
+url: http://crux.im
 baseurl: ""
 permalink: pretty
 
-repository: yanlzhl/yanlzhl.github.io
+repository: cruxim/cruxim.github.io
 #github: [metadata]
 
 # Pagination
@@ -216,7 +216,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/yanlzhl
+  GitHub: https://github.com/cruxim
 
 
 # Social Links Icons
@@ -237,7 +237,7 @@ social_icons:
 # in directory: /assets/images/avatar.gif
 avatar: /assets/images/avatar.jpg
 
-reward_comment: 热情洋溢的程序员欢迎您以任何形式转载！
+reward_comment: 热情洋溢的书写者欢迎您以任何形式转载！
 wechatpay: /path/to/wechat-reward-image.jpg
 alipay: /path/to/alipay-reward-image.jpg
 
