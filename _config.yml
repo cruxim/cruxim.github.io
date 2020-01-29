@@ -611,11 +611,11 @@ three_waves: false
 canvas_lines: false
 
 # canvas_sphere
-canvas_sphere: false
+canvas_sphere: ture
 
 # Only fit scheme Pisces
 # Canvas-ribbon
-canvas_ribbon: ture
+canvas_ribbon: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
