@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: crux | 墨写的谎言
-subtitle: 祝这个世界热热闹闹，愿我还是我
-description: 祝这个世界热热闹闹，愿我还是我
-author: crux | 墨写的谎言
+title: crux | 南十字星照耀
+subtitle: 死亡的时刻到了
+description: 一个小小的杂货屋
+author: crux | 青铜雨
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -611,7 +611,7 @@ three_waves: false
 canvas_lines: false
 
 # canvas_sphere
-canvas_sphere: ture
+canvas_sphere: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
